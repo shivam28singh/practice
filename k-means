@@ -4,7 +4,7 @@ appropriate information regarding our datasets.
 
 Algorithm:-
   It contains two main steps:
-  1) Initialize each data points to some cluster(only those clusters will assigned to it which has a minimum distance from that clustres
+  1) Initialize each data points to some cluster(only those clusters will assigned to it which has a minimum distance from that clusters
      centroids to the data points).
   2) update the cluster centroids of every clusters (by taking the mean of data points which belongs to the same clusters).
   
