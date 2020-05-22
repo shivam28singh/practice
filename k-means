@@ -1,0 +1,12 @@
+K-means algorithm is an part of unsupervised learning where in our dataset we do not have a label for our observed example and we have to 
+find the clusters(group of similar types),so that we can categorise our dataset into the different clusters and these clusters gives us the 
+appropriate information regarding our datasets.
+
+Algorithm:-
+  It contains two main steps:
+  1) Initialize each data points to some cluster(only those clusters will assigned to it which has a minimum distance from that clustres
+     centroids to the data points).
+  2) update the cluster centroids of every clusters (by taking the mean of data points which belongs to the same clusters).
+  
+  
+  Thanks
